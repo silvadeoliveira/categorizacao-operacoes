@@ -25,7 +25,7 @@ Optei por usar o **padrão Strategy por alguns motivos bastante simples, mas que
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/categorizacao-operacoes.git
+   git clone https://github.com/silvadeoliveira/categorizacao-operacoes.git
 
 ### 🔗 Referência
 Para mais detalhes sobre este padrão, consulte a documentação oficial:  
